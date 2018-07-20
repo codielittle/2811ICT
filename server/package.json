@@ -1,0 +1,22 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codielittle/2811ICT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codielittle/2811ICT/issues"
+  },
+  "homepage": "https://github.com/codielittle/2811ICT#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
